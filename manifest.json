@@ -1,0 +1,21 @@
+{
+  "name": "JH Movie Hub",
+  "short_name": "JH Movie Hub",
+  "start_url": "https://jhmhub.jhtone.site/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/zVBLf1n3/5aa0ef32-4022-4581-9b46-9f01ebb2e616-1.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.ibb.co/r2DcbL7D/5aa0ef32-4022-4581-9b46-9f01ebb2e616-2.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
