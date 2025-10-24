@@ -1,7 +1,7 @@
 {
-  "name": "JH Movie Hub",
-  "short_name": "JH Movie Hub",
-  "start_url": "https://jhmhub.jhtone.site/",
+  "name": "Flixify",
+  "short_name": "Flixify",
+  "start_url": "https://flixify.jhtone.site/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
